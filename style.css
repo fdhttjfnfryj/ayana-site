@@ -1,0 +1,51 @@
+
+body {
+    background-color: #778899;
+    color: #8b0000;
+    font-size: 18px;
+    font-family: 'Cormorant', sans-serif;
+}
+
+h1 {
+color: #d35400;
+margin-bottom: 5px;
+padding: 10px;
+}
+   
+.card {
+background-color: white;
+border-radius: 10px;
+padding: 20px;
+margin: 20px 0;
+}
+
+.card {
+background-color: white;
+border-radius: 10px;
+padding: 20px;
+margin: 20px 0;
+}
+
+
+#header {
+    text-align: center;
+}
+
+.menu {
+list-style: none;
+display: flex;
+gap: 20px;
+padding: 0;
+}
+.menu a {
+color: white;
+text-decoration: none;
+font-weight: bold;
+}
+
+#footer {
+text-align: center;
+padding: 15px;
+background-color: #2b2b2b;
+color: white;
+}
